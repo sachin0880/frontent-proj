@@ -22,3 +22,5 @@ The Text to QR Code Generator Project showcases the integration of HTML, CSS, an
 and widely applicable web tool. By the end of this project, we aim to deliver a reliable, easy-to-use QR code generator 
 that meets the needs of various users, from marketers to everyday individuals. This project not only provides a valuable tool 
 but also demonstrates the effective use of web technologies to create interactive and useful applications.
+
+![](https://github.com/sachin0880/frontent-proj--Text_to_OR_Code/blob/main/Text_to_QR_code__Image.png)
